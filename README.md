@@ -6,15 +6,12 @@ git clone https://github.com/erfrits/girls_day_ds.git
 ```
 
 # Workshop
-0. Intro (15 min - Erika)  
-1. Tabular data  
-   1. Filmajánló ML - Dani (20 min)  
-2. Képfeldolgozás  
-   1. Macsak kutya https://machinelearningforkids.co.uk/#!/worksheets (5 min) - Erika  
+0. DS/ML Intro (15 min - Erika)
+   1.ML modellek kattingatás  
+   2. Képfeldolgozás  Macsak kutya https://machinelearningforkids.co.uk/#!/worksheets 
 2. LLM/Transformers  
-   0. NLP intro (15 min) - Erika      
-   1. Miért hívják AI? (5 min) - Erika  
-   2. ChatGPT/Bing Copilot (15 min) - Erika  
-   3. Szövegösszegzés - András (20 min)
-   4. Optional - Bing Designer? - Erika
+   0. NLP intro/AI intro (15 min) - Erika      
+   2. Filmajánló ML - Dani (20 min)  
+   4. Szövegösszegzés - András (20 min)
+   5. ChatGPT/Bing Copilot/Bing Designer - Erika
   
