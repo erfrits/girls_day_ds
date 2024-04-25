@@ -12,10 +12,10 @@ git clone https://github.com/erfrits/girls_day_ds.git
 4. Szövegösszegzés (20 min)
 5. ChatGPT/Bing Copilot/Bing Designer
 
-Linkek:
-[ChatGPT](https://chat.openai.com/)
-[Bing Copilot/Designer](https://www.bing.com/chat)
-[Google Gemini](https://gemini.google.com/app)
-[Machine learning for Art](https://ml4a.net/)
+# Linkek  
+[ChatGPT](https://chat.openai.com/)  
+[Bing Copilot/Designer](https://www.bing.com/chat)  
+[Google Gemini](https://gemini.google.com/app)  
+[Machine learning for Art](https://ml4a.net/)  
 
   
