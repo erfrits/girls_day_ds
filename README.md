@@ -10,7 +10,7 @@ git clone https://github.com/erfrits/girls_day_ds.git
 1. NLP intro/AI intro (15 min)      
 2. Filmajánló ML (20 min)  
 4. Szövegösszegzés (20 min)
-5. ChatGPT/Bing Copilot/Bing Designer
+5. ChatGPT/Bing Copilot/Gemini/Bing Designer
 
 # Linkek  
 [ChatGPT](https://chat.openai.com/)  
